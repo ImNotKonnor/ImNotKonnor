@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **KonnorDev/KonnorDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+<div id="Header" align="Center">
+   <img src="https://giphy.com/gifs/Capcom-gaming-capcom-action-game-7s6SVXy5Rt1uGWYMJE" width="200"/>
+
+</div>
