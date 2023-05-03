@@ -2,10 +2,22 @@
 
 <div id="Header" align="Center">
 <img src="https://i.giphy.com/media/oNSrsAMjvUMUNhUfEf/giphy.webp" width="400"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm Konnor</h1>
 
+</div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KonnorDev&theme=violet-punch)](https://git.io/streak-stats)
+
+---
+
+### 👨‍💻 About Me :
+
+- 📝 I regularly upload videos on [https://www.youtube.com/EntornoDeJuego](https://www.youtube.com/)
+
+- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+
+- 📫 How to reach me **himynameiskonnor@gmail.com**
+
+- 🌱 I’m currently learning **React.js, Blockchain, Web3, Solidity, Yii2**
+
+- 🌐 Website [mynameiskonnor.com](mynameiskonnor.com) (Disabled)
