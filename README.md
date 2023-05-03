@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 <div id="Header" align="Center">
-   <img src="https://giphy.com/gifs/Capcom-gaming-capcom-action-game-7s6SVXy5Rt1uGWYMJE" width="200"/>
+   <img src="https://media.giphy.com/media/7s6SVXy5Rt1uGWYMJE/giphy-downsized-large.gif" width="200"/>
 
 </div>
