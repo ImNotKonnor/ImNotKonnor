@@ -30,3 +30,6 @@
 
 
 </div>
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/:817559254071509032)](https://discord.com/users/:817559254071509032)
