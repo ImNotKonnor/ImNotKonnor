@@ -58,6 +58,3 @@ me.say_hi()
 [![Spotify](https://konnor-konnor.vercel.app/api/spotify)](https://open.spotify.com/user/22tzbtzbuiyznxt7wepmq5oky)
 
 </div>
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/:817559254071509032)](https://discord.com/users/:817559254071509032)
