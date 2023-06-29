@@ -12,6 +12,16 @@
 
 <br/>
 
+<div id="Unawea3" align="Center">
+
+### I'm listening...
+
+[![Spotify](https://konnor-konnor.vercel.app/api/spotify)](https://open.spotify.com/user/22tzbtzbuiyznxt7wepmq5oky)
+
+</div>
+
+<br/>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -37,20 +47,26 @@ me.say_hi()
 
 - 📝 I regularly upload videos on [https://www.youtube.com/EntornoDeJuego](https://www.youtube.com/)
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 💬 Ask me about **Whatever you want**
+
+- 💼 Ceo and Founder of [Zapphire Studios](http://www.zapphirestudios.com/)
 
 - 📫 How to reach me **himynameiskonnor@gmail.com**
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3, Solidity, Yii2**
+- 🌱 I’m currently learning **Everything, Never stop learning**
 
-- 🌐 Website [mynameiskonnor.com](mynameiskonnor.com) (Disabled)
+- 🌐 Website [mynameiskonnor.com](#)
 
 <br/>
 
+<div id="Unawea2" align="Center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/817559254071509032)](https://discord.com/users/817559254071509032)
+
+</div>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -155,17 +171,8 @@ me.say_hi()
 
 </div>
 
-<div id="Unawea2" align="Center">
+<br/>  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/817559254071509032)](https://discord.com/users/817559254071509032)
-
-</div>
-
-<div id="Unawea3" align="Center">
-
-[![Spotify](https://konnor-konnor.vercel.app/api/spotify)](https://open.spotify.com/user/22tzbtzbuiyznxt7wepmq5oky)
-
-</div>
 
 ## Connect with me  
 <div align="center">
