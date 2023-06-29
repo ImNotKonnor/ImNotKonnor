@@ -115,7 +115,11 @@ me.say_hi()
 
 <table><tr><td valign="top" width="33%">
 
+<div align="center">  
+
 ### Some software that I use
+
+</div>
 
 <div align="center">  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
@@ -126,8 +130,14 @@ me.say_hi()
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>
-<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/UE_Logo_Black_Centered.svg.png?raw=true" alt="Unreal Engine" height="50" /></a>   
-
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/UE_Logo_Black_Centered.svg.png?raw=true" alt="Visual Studio Code" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/Apache_NetBeans_Logo.svg.png?raw=true" alt="Apache NetBeans" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/Fl_studio_logo.png?raw=true" alt="FL Studio" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/IntelliJ_IDEA_Icon.svg.png?raw=true" alt="IntelliJ IDEA " height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/cubase-logo.png?raw=true" alt="Cubase" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/Visual_Studio_Code_1.35_icon.svg.png?raw=true" alt="Unreal Engine" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/Visual_Studio_Code_1.35_icon.svg.png?raw=true" alt="Unreal Engine" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/Visual_Studio_Code_1.35_icon.svg.png?raw=true" alt="Unreal Engine" height="50" /></a>
 
 </td></tr></table>  
 
