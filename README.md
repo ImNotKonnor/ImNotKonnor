@@ -6,7 +6,7 @@
 
 <div id="Unawea3" align="Center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ABeeZee&size=25&pause=1000&color=F74638&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ABeeZee&size=25&pause=1000&color=F74638&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
 </div>
 
@@ -64,6 +64,8 @@ me.say_hi()
 [![Discord Presence](https://lanyard.cnrad.dev/api/817559254071509032)](https://discord.com/users/817559254071509032)
 
 </div>
+
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
