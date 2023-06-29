@@ -135,11 +135,12 @@ me.say_hi()
 <a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/Fl_studio_logo.png?raw=true" alt="FL Studio" height="50" /></a>
 <a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/IntelliJ_IDEA_Icon.svg.png?raw=true" alt="IntelliJ IDEA " height="50" /></a>
 <a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/cubase-logo.png?raw=true" alt="Cubase" height="50" /></a>
-<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/Visual_Studio_Code_1.35_icon.svg.png?raw=true" alt="Unreal Engine" height="50" /></a>
-<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/Visual_Studio_Code_1.35_icon.svg.png?raw=true" alt="Unreal Engine" height="50" /></a>
-<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/Visual_Studio_Code_1.35_icon.svg.png?raw=true" alt="Unreal Engine" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/Cinema-4D-Logo.png?raw=true" alt="Cinema4D" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/PT2019.png?raw=true" alt="Pro Tools" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/wwise_logo_rgb.7e17bcc5.png?raw=true" alt="Wwise" height="50" /></a>
+<a href="#" target="_blank"><img style="margin: 10px" src="https://github.com/KONN0R-DEV/KONN0R-DEV/blob/main/assets/img/RX-icon-gradient@2x.png?raw=true" alt="Izotope RX10" height="50" /></a>
 
-</td></tr></table>  
+</td></tr></table>
 
 </div>  
 
