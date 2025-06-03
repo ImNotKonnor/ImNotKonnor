@@ -61,7 +61,7 @@ me.say_hi()
 
 <div id="Unawea2" align="Center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/817559254071509032)](https://discord.com/users/817559254071509032)
+[![Discord Presence](https://lanyard.cnrad.dev/api/817559254071509032?idleMessage=This%20action%20will%20have%20consequences...%20%F0%9F%A6%8B&theme=dark)](https://discord.com/users/817559254071509032)
 
 </div>
 
