@@ -1,5 +1,5 @@
 <div id="Header" align="Center">
-<img src="https://i.giphy.com/media/oNSrsAMjvUMUNhUfEf/giphy.webp" width="400"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyOThzaHlmaGlkMXNvNWk5bGM2MHcxM21qbnh6bDh3a2MyYm1wZncydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7s6SVXy5Rt1uGWYMJE/giphy.gif" width="400"/>
 
 <h1 align="center">Hi 👋, I'm Konnor</h1>
 </div>
