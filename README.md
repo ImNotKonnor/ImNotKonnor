@@ -1,5 +1,5 @@
 <div id="Header" align="Center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2R0MWhxNzN1emJrazJ4cjRwc2c0ejRhZWNnZ3V5NDdlcjUxM2loNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnL9GszSLlCl7vguNc/giphy.gif" width="400"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyOWo5MXlqczA2Mzdvd21wbXA2YnYyZzh1a2liZzV0eXFmdmYwMHI4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7s6SVXy5Rt1uGWYMJE/giphy.gif" width="400"/>
 
 <h1 align="center">Hi 👋, I'm Konnor</h1>
 </div>
