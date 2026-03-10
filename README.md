@@ -168,7 +168,7 @@ me.say_hi()
 
 <div id="Unawea" align="Center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImNotKonnor-DEV&theme=violet-punch&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&sideLabels=EB0000&ring=EB0000&fire=961F17&sideNums=960000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImNotKonnor&theme=violet-punch&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&sideLabels=EB0000&ring=EB0000&fire=961F17&sideNums=960000)](https://git.io/streak-stats)
 
 
 </div>
@@ -178,7 +178,7 @@ me.say_hi()
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/KONN0R-DEV" target="_blank">
+<a href="https://github.com/ImNotKonnor" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/ImNotKonnor" target="_blank">
